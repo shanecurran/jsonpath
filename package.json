@@ -1,5 +1,5 @@
 {
-  "name": "@jsonpath/node",
+  "name": "jsonpath-node",
   "description": "Query JavaScript objects with JSONPath expressions. Robust / safe JSONPath engine for Node.js.",
   "version": "1.0.2",
   "author": "david@fmail.co.uk",
