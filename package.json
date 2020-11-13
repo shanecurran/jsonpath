@@ -4,7 +4,7 @@
   "version": "1.0.2",
   "author": "david@fmail.co.uk",
   "scripts": {
-    "test": "mocha -u tdd test && jscs lib && jshint lib",
+    "test": "mocha -u tdd test && jscs lib && jshint lib"
   },
   "dependencies": {
     "esprima": "1.2.2",
